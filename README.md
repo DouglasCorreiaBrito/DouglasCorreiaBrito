@@ -1,4 +1,4 @@
-! [capa github] (https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/DOUGLAS.png)
+! [capa github] (https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/Capa_github.png)
 
 <center>
 <table>
