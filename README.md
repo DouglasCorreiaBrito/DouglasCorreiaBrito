@@ -1,5 +1,6 @@
-! [capa github] (https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/Capa_github.png)
+![capa github](https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/Capa_github.png) 
 
+## Hi there, I'm Douglas <img width="30px" src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/vulcan-salute.png">
 <center>
 <table>
     <tr>
@@ -8,8 +9,6 @@
     </tr>   
 </table>
 </center> 
-
-### Hi there ;) 👋
 
 <!--
 **DouglasCorreiaBrito/DouglasCorreiaBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
