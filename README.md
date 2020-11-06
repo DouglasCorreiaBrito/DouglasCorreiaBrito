@@ -1,7 +1,6 @@
-## Hi there, I'm Douglas <img width="30px" src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/vulcan-salute.png">
-
 ![capa github](https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/Capa_github.png) 
 
+## Hi there, I'm Douglas <img width="30px" src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/vulcan-salute.png">
 <center>
 <table>
     <tr>
