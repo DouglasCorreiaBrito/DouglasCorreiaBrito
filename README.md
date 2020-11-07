@@ -16,5 +16,5 @@
 - <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/colab.png">  I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-### Find me around the web 🌎: 
-
+### Connect with me: 🌎: 
+[<img align="left" alt="douglas_cobri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
