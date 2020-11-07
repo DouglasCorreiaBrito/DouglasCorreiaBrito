@@ -24,3 +24,4 @@
 
 <a href="mailto:douglas.lusvardi@gmail.com"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/gmail.png" width="24"></img></a> [Email](mailto:douglas.lusvardi@gmail.com)  
 
+### visit my website: https://douglascorreiabrito.github.io/
