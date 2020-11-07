@@ -18,9 +18,9 @@
 
 ### Connect with me: 🌎: 
 
-<a href="https://twitter.com/douglas_cobri"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/douglas_cobri)    
+<a href="https://twitter.com/douglas_cobri"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/douglas_cobri)    
 
-<a href="https://www.linkedin.com/in/douglas-correia-15816a15"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/douglas-correia-15816a153)  
+<a href="https://www.linkedin.com/in/douglas-correia-15816a15"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/douglas-correia-15816a153)  
 
-<a href="mailto:douglas.lusvardi@gmail.com"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/images/email.png" width="16"></img></a> [Email](mailto:douglas.lusvardi@gmail.com)  
+<a href="mailto:douglas.lusvardi@gmail.com"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/gmail.png" width="16"></img></a> [Email](mailto:douglas.lusvardi@gmail.com)  
 
