@@ -12,12 +12,11 @@
 </center> 
 
 ### About me
-- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/work.png"> I’m currently working on ...
-- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/learn.png"> I’m currently learning ...
-- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/colab.png">  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/work.png"> I’m currently working on Angular application for <a href="https://www.userede.com.br/">Rede</a> as a consultant by the company <a href="https://www.iteris.com.br"/>Iteris</a>
+- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/learn.png"> I’m currently learning Python
+- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/colab.png">  I’m looking to collaborate on open source python projects
 
-### Connect with me: 🌎: 
+### Connect with me 🌎: 
 
 <a href="https://twitter.com/douglas_cobri"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/twitter.png" width="24"></img></a> [Twitter](https://twitter.com/douglas_cobri)    
 
