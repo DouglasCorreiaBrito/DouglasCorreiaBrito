@@ -17,4 +17,10 @@
 - 🤔 I’m looking for help with ...
 
 ### Connect with me: 🌎: 
-[<img align="left" alt="douglas_cobri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<a href="https://twitter.com/douglas_cobri"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/douglas_cobri)    
+
+<a href="https://www.linkedin.com/in/douglas-correia-15816a15"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/douglas-correia-15816a153)  
+
+<a href="mailto:douglas.lusvardi@gmail.com"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/images/email.png" width="16"></img></a> [Email](mailto:douglas.lusvardi@gmail.com)  
+
