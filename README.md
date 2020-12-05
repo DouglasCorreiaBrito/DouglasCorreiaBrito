@@ -13,7 +13,7 @@
 
 ### About me
 - <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/work.png"> I’m currently working on Angular application for <a href="https://www.userede.com.br/">Rede</a> as a consultant by the company <a href="https://www.iteris.com.br"/>Iteris</a>
-- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/learn.png"> I’m currently learning Python
+- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/learn.png"> I’m currently learning Python and Go
 - <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/colab.png">  I’m looking to collaborate on open source python projects
 
 ### Connect with me 🌎: 
