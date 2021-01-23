@@ -20,9 +20,6 @@ https://douglascorreiabrito.github.io/
 <p align="center">
  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=DouglasCorreiaBrito&theme=dracula&show_icons=true"/>
 </p>
-<p align="center">
-    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCorreiaBrito&hide=html,css,scss&theme=dracula&layout=compact"/>
- </p>
 
 ## My Development Stack
 
