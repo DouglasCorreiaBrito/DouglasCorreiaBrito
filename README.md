@@ -15,11 +15,9 @@ https://douglascorreiabrito.github.io/
 
 
 ## Coding Activity
- **GitHub Stats**
 <p align="center">
- <img width="max" src="https://github-readme-stats.vercel.app/api?username=DouglasCorreiaBrito&theme=dracula&show_icons=true&hide_title=true"/>
+ <img width="500px" src="https://github-readme-stats.vercel.app/api?username=DouglasCorreiaBrito&theme=dracula&show_icons=true"/>
 </p>
-
 <p align="center">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCorreiaBrito&hide=html,css,scss&theme=dracula&layout=compact"/>
+    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCorreiaBrito&hide=html,css,scss&theme=dracula&layout=compact"/>
  </p>
