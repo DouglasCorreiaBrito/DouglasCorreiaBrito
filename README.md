@@ -11,7 +11,9 @@ https://douglascorreiabrito.github.io/
 
 ### Around the Web 🌎: 
 
-<a href="https://twitter.com/douglas_cobri"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/twitter.png" width="24"></img></a> [Twitter](https://twitter.com/douglas_cobri)    <a href="https://www.linkedin.com/in/douglas-correia-15816a15"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/linkedin.png" width="24"></img></a> [LinkedIn](https://www.linkedin.com/in/douglas-correia-15816a153)    <a href="mailto:douglas.lusvardi@gmail.com"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/gmail.png" width="24"></img></a> [Email](mailto:douglas.lusvardi@gmail.com)  
+<a href="https://twitter.com/douglas_cobri"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/twitter.png" width="24"></img></a> [Twitter](https://twitter.com/douglas_cobri)
+<a href="https://www.linkedin.com/in/douglas-correia-15816a15"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/linkedin.png" width="24"></img></a> [LinkedIn](https://www.linkedin.com/in/douglas-correia-15816a153) 
+<a href="mailto:douglas.lusvardi@gmail.com"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/gmail.png" width="24"></img></a> [Email](mailto:douglas.lusvardi@gmail.com)  
 
 
 ## Coding Activity
@@ -35,7 +37,7 @@ https://douglascorreiabrito.github.io/
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/></code>
