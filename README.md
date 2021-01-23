@@ -15,14 +15,11 @@ https://douglascorreiabrito.github.io/
 
 
 ## Coding Activity
-**github indicators**
+ **GitHub Stats**
 <p align="center">
-    <img width="495px" src="https://github-readme-stats.vercel.app/api?username=DouglasCorreiaBrito&theme=dracula&show_icons=true"/>
+ <img width="max" src="https://github-readme-stats.vercel.app/api?username=DouglasCorreiaBrito&theme=dracula&show_icons=true&hide_title=true"/>
 </p>
 
-<br/>
-
-**top languages**
 <p align="center">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCorreiaBrito&hide=html,css,scss&theme=dracula"/>
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCorreiaBrito&hide=html,css,scss&theme=dracula&layout=compact"/>
  </p>
