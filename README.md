@@ -1,6 +1,6 @@
 
 # Hi there, I'm Douglas, welcome to my GitHub <img width="30px" src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/vulcan-salute.png">
-https://douglascorreiabrito.github.io/
+
 
 ## About me
  - <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I live in <b>Brazil!</b>
