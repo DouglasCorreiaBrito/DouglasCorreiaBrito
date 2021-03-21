@@ -1,4 +1,4 @@
-<img src="/img/github-header.png">
+<img src="/img/github_header.png">
 <h2>
 	Well, hello! <img width="30px" src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/vulcan-salute.png"> 
  <img align="right" src="https://gpvc.arturio.dev/DouglasCorreiaBrito" alt="Profile views">
