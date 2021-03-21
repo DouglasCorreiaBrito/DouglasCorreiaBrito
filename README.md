@@ -1,20 +1,24 @@
-<img src="/img/github_header.png">
+<img src="/img/Capa_github.png">
 <h2>
-	Well, hello! <img width="30px" src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/vulcan-salute.png"> 
- <img align="right" src="https://gpvc.arturio.dev/DouglasCorreiaBrito" alt="Profile views">
+Well, hello! <img width="30px" src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/vulcan-salute.png"> 
+<img align="right" src="https://gpvc.arturio.dev/DouglasCorreiaBrito" alt="Profile views">
 </h2>
+		
+💼&nbsp;&nbsp;&nbsp;Web Developer at <a href="https://www.iteris.com.br">Iteris</a>
 
+:triangular_flag_on_post:&nbsp;&nbsp;&nbsp;I live in **Brazil!**
 
- - <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I live in <b>Brazil!</b>
-- 👩🏻‍💻 I’m currently working on Angular application for <a href="https://www.userede.com.br/">Rede</a> as a consultant by the company <a href="https://www.iteris.com.br"/>Iteris</a>
-- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/learn.png"> I’m currently learning Python
-- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/colab.png">  I’m looking to collaborate on open source python projects
-- 💬 Ask me about anything, I am happy to help;
+:book:&nbsp;&nbsp;&nbsp;I’m currently learning **Python**
 
+📫&nbsp;&nbsp;&nbsp;Email me at douglas.lusvardi@gmail.com
 
-<a href="https://twitter.com/douglas_cobri"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/twitter.png" width="24"></img></a> [Twitter](https://twitter.com/douglas_cobri)
-<a href="https://www.linkedin.com/in/douglas-correia-15816a15"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/linkedin.png" width="24"></img></a> [LinkedIn](https://www.linkedin.com/in/douglas-correia-15816a153) 
-<a href="mailto:douglas.lusvardi@gmail.com"><img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/gmail.png" width="24"></img></a> [Email](mailto:douglas.lusvardi@gmail.com)  
+🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://www.linkedin.com/in/douglas-correia-15816a153/" target="_blank">LinkedIn</a>
+
+💬&nbsp;&nbsp;&nbsp; Ask me about anything, I am happy to help;
+
+<br>
+<br>
+
 
 
 ## Coding Activity
