@@ -5,7 +5,7 @@
 ## About me
  - <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I live in <b>Brazil!</b>
 - 👩🏻‍💻 I’m currently working on Angular application for <a href="https://www.userede.com.br/">Rede</a> as a consultant by the company <a href="https://www.iteris.com.br"/>Iteris</a>
-- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/learn.png"> I’m currently learning Python and Go
+- <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/learn.png"> I’m currently learning Python
 - <img src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/colab.png">  I’m looking to collaborate on open source python projects
 - 💬 Ask me about anything, I am happy to help;
 
