@@ -20,7 +20,7 @@ Well, hello! <img width="30px" src="https://github.com/DouglasCorreiaBrito/Dougl
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCorreiaBrito&hide=css,html&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCorreiaBrito&hide=css,html&line_height=27" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DouglasCorreiaBrito&show_icons=true&count_private=true&include_all_commits=true&line_height=27" alt="halfrost's Github Stats" />
   <br>
   <br>
