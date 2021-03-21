@@ -3,23 +3,17 @@
 Well, hello! <img width="30px" src="https://github.com/DouglasCorreiaBrito/DouglasCorreiaBrito/blob/main/img/vulcan-salute.png"> 
 <img align="right" src="https://gpvc.arturio.dev/DouglasCorreiaBrito" alt="Profile views">
 </h2>
-		
-💼&nbsp;&nbsp;&nbsp;Web Developer at <a href="https://www.iteris.com.br">Iteris</a>
-
-:triangular_flag_on_post:&nbsp;&nbsp;&nbsp;I live in **Brazil!**
-
-:book:&nbsp;&nbsp;&nbsp;I’m currently learning **Python**
-
-📫&nbsp;&nbsp;&nbsp;Email me at douglas.lusvardi@gmail.com
-
-🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://www.linkedin.com/in/douglas-correia-15816a153/" target="_blank">LinkedIn</a>
-
-💬&nbsp;&nbsp;&nbsp; Ask me about anything, I am happy to help;
-
-<br>
-<br>
 
 
+
+
+
+
+| About me      | Contact me |
+| ------------- | ------------- |
+| :triangular_flag_on_post:&nbsp;&nbsp;&nbsp;I live in **Brazil!**  | 📫&nbsp;&nbsp;&nbsp;Email me at douglas.lusvardi@gmail.com  |
+| 💼&nbsp;&nbsp;&nbsp;Developer at <a href="https://www.iteris.com.br">Iteris</a>  | 🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://www.linkedin.com/in/douglas-correia-15816a153/" target="_blank">LinkedIn</a>  |
+| :book:&nbsp;&nbsp;&nbsp;I’m currently learning **Python** | 💬&nbsp;&nbsp;&nbsp; Ask me about anything, I am happy to help;  |
 
 ## Coding Activity
 <p align="center">
