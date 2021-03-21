@@ -17,8 +17,12 @@ Well, hello! <img width="30px" src="https://github.com/DouglasCorreiaBrito/Dougl
 | :book:&nbsp;&nbsp;&nbsp;I’m currently learning **Python** | 💬&nbsp;&nbsp;&nbsp; Ask me about anything, I am happy to help  | :books: Reading more about communication, philosophy and how the computer works.|
 
 ## Coding Activity
+
+
 <p align="center">
- <img width="500px" src="https://github-readme-stats.vercel.app/api?username=DouglasCorreiaBrito&theme=dracula&show_icons=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCorreiaBrito&hide_langs_below=1&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DouglasCorreiaBrito&show_icons=true&count_private=true&include_all_commits=true&line_height=27" alt="halfrost's Github Stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=DouglasCorreiaBrito&column=7" alt="douglas Github Trophy" />
 </p>
 
 ## My Development Stack
