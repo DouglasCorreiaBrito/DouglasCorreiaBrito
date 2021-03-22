@@ -30,11 +30,11 @@ Well, hello! <img width="30px" src="https://github.com/DouglasCorreiaBrito/Dougl
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCorreiaBrito&hide=css,html&line_height=27" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DouglasCorreiaBrito&show_icons=true&count_private=true&include_all_commits=true&line_height=27" alt="halfrost's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCorreiaBrito&hide=css,html&line_height=27&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DouglasCorreiaBrito&show_icons=true&count_private=true&include_all_commits=true&line_height=27&theme=dracula" alt="halfrost's Github Stats" />
   <br>
   <br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=DouglasCorreiaBrito&column=7" alt="douglas Github Trophy" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=DouglasCorreiaBrito&column=7&theme=dracula" alt="douglas Github Trophy" />
 </p>
 
 
